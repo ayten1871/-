@@ -1,0 +1,12 @@
+{
+    "routes": [
+      { "src": "/scenicspot","dest": "/Scenicspot.js"},
+      { "src": "/activity","dest": "/Activity.js"},
+      { "src": "/restaurant","dest": "/Restaurant.js"},
+      { "src": "/scenicspot/(?<id>[^/]*)","dest": "/scenicspot/$id"},
+      { "src": "/activity/(?<id>[^/]*)","dest": "/activity/$id"},
+      { "src": "/restaurant/(?<id>[^/]*)","dest": "/restaurant/$id"},
+      { "src": "/*", "dest": "/ErrorPage.js"},
+      { "src": "/*", "dest": "/Home.js"}
+    ]
+  }
