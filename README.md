@@ -3,8 +3,13 @@ F2E 3rd Week1
 
 # LionTravel Calendar
 
-## ![index page snap shot](https://imgur.com/a/Dc6P7nw)
-## [Online demo on Netlify] (https://awesome-curie-51e091.netlify.app/)
+## ![index page snap shot](./src/img/readmeImg.jpg)
+### Online Demo
+| Host   | Link                    |
+| -------|:----------------------- |
+| Netlify| [:link:][Netlify-Demo]  |
+
+[Netlify-Demo]: https://awesome-curie-51e091.netlify.app/
 ## Features
 - ODATA was used for reducing JSON response size as well as selecting data which contain at least one image.
 - Current events was filtered by start date, passed events won't be displaied.
