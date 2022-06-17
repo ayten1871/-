@@ -24,7 +24,7 @@ F2E 3rd Week1
 - API key names changed during the development. Similar changes might occur in the near future and cause errors.
 
 ## TDX JSON format 
-# ScenicSpot
+### ScenicSpot
 ```
 [
   {
@@ -55,7 +55,7 @@ F2E 3rd Week1
   ...
 ]
 ```
-# Restaurant
+### Restaurant
 ```
 [
   {
@@ -83,7 +83,7 @@ F2E 3rd Week1
   ...
 ]
 ```
-# Activity
+### Activity
 ```
 [
   {
