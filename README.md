@@ -1,7 +1,6 @@
 # -
 F2E 3rd Week1
 
-# LionTravel Calendar
 
 ## ![index page snap shot](./src/img/readmeImg.jpg)
 ### Online Demo
